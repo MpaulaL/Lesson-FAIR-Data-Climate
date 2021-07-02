@@ -18,6 +18,7 @@ keypoints:
 - "FAIR data enhance impact, reuse, and transparancy of research."
 - "FAIRification is an ongoing effort accross many different fields."
 - "FAIR principles are a set of guiding principles, not rules or standards."
+- FAIR data is not equivalent to Open Data
 ---
 
 ## What is FAIR?
